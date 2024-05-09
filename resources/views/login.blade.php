@@ -21,7 +21,7 @@
                 <div class="row d-flex justify-content-center align-items-center h-100">
                     <div class="col-12 col-md-8 col-lg-6 col-xl-5">
                         <img src="/img/logo-swifect-logo.png" alt=""></img>
-                        <h1 style="font-weight: bold; color: #2B58AF">IT INVENTORY ONLINE BC - SKS</h1>
+                        <h1 style="font-weight: bold; color: #2B58AF">IT INVENTORY ONLINE BC</h1>
                     </div>
                     <div class="col-12 col-md-8 col-lg-6 col-xl-5">
                         <div class="card shadow-2-strong" style="border-radius: 1rem;">
@@ -57,7 +57,7 @@
                                 Don't have an account?<a href="{{ 'register' }}">Register Here</a>
                             </div> --}}
                             <div class="login-form pt-2">
-                                <a href="https://swifect.com/" target="_blank">PT.Swifect Solusi Indonesia 2022 ©</a>
+                                <a href="https://swifect.com/" target="_blank">PT.Swifect Solusi Indonesia 2024 ©</a>
                             </div>
                             <div class="login-form pt-2">
                                 Go to Swifect Repository page click <a href="https://repository.swiapps.com/" target="_blank">Here</a>
